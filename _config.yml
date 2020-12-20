@@ -9,8 +9,8 @@ title:               'CS 571'
 tagline:             'Operating Systems (Spring 2021)'
 description:         'CS 571: Operating Systems<br>George Mason University'
 url:                 ''
-#baseurl:             'https://tddg.github.io/cs571-spring20'
-baseurl:             ''
+baseurl:             'https://tddg.github.io/cs571-spring21'
+#baseurl:             ''
 
 # yue's hack
 plugins:
