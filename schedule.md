@@ -105,7 +105,7 @@ The course schedule is tentative and subject to change\*.
 </tr-->
 <tr> <!-- week of Jan 27 -->
   <td id="2021-1-27" class="date"><b>Week 1</b></td>
-  <td class="virtualization">Jan 27<br/>
+  <td class="lecture">Jan 27<br/>
 	<b>Lec 1:</b> Introduction, process abstraction <br/>
 	<span class="assignment"><a href="./proj0a.html">Proj 0a</a> and 
 		<a href="./proj0b.html">Proj 0b</a> out</span></td>
