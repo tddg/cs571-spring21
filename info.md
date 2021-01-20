@@ -15,8 +15,8 @@ The course syllabus is posted [here](https://cs.gmu.edu/media/syllabi/Spring2021
 
 ## GTA & office hours
 
-* TBD
-* Email: [tbd@masonlive.gmu.edu](mailto:tbd@masonlive.gmu.edu)
+* Michael Crawshaw
+* Email: [mcrawsha@masonlive.gmu.edu](mailto:mcrawsha@masonlive.gmu.edu)
 * Where: Virtual
 * When: TBD
 
@@ -29,8 +29,8 @@ strong requirement.
 ## Textbooks
 
 The only required textbook for this class is OSTEP, which is an
-excellent resource for learning OS. The material of this class is
-based on OSTEP, which is **publicly available** at: 
+excellent resource for learning OS and is completely free. The material of this class is
+based on OSTEP and is **publicly available** at: 
 
 * [Operating Systems: Three Easy Pieces (OSTEP)](http://pages.cs.wisc.edu/~remzi/OSTEP/), by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Aug, 2018 (v 1.00)
 
@@ -43,11 +43,13 @@ Recommended textbooks but not required:
 
 Here is a tentative list of projects:
 
+* Project 0a: (C warm-up): Practice C programming by implementing four command line tools;
+* Project 0b: (Intro to Go): Familiarize yourself with the Go programming language;
 * Project 1: Implement a Linux shell using C;
-* Project 2: Implement a user-space green thread library;
-* Project 3: Implement a dynamic memory allocator;
-* Project 4: Implement a MapReduce application using Go;
-* Project 5: Implement a Mason File System (MFS).
+* Project 2: Implement and analyze a suite of commonly used caching policies;
+* Project 3: Implement a user-space green thread library;
+* Project 4: Implement a MapReduce framework (and applications) using Go;
+* Project 5 (optional): Implement a Mason Distributed File System (MDFS) using Go.
 
 ## Grading policy
 

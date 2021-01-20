@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Project 3: Green Threads"
-permalink: /proj3.html
+title: "Project 0b: Intro to Go Programming"
+permalink: /proj0b.html
 ---
 
 ## Important Dates and Other Stuff

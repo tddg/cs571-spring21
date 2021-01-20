@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Project 1a: Linux Shell"
-permalink: /proj1a.html
+title: "Project 1: Linux Shell"
+permalink: /proj1.html
 ---
 
 ## Important Dates and Other Stuff
 
-**Due** Thursday, 02/20, midnight.
+**Due** Thursday, 02/26, midnight.
 
 **This project is to be done by yourself.**
 
