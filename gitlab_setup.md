@@ -11,7 +11,7 @@ repository in the student.cs computing environment.
 
 We will be using [Mason GitLab](https://git.gmu.edu/users/sign_in) for all our CS 571 coding projects,
 including the C systems programming projects (Linux utilities, Shell,
-Green Threads) and Go-based distributed systems projects (MapReduce
+Green Threads) and Go-based distributed systems projects (Intro to Go, MapReduce,
 and MDFS). 
 
 > **IMPORTANT:** There are two ways of creating a new GitLab repository.
