@@ -28,9 +28,14 @@ editing history.
 Computer Science Department's Honor Code policies.**
 
 
+For a newly created project, you can directly set the visibility to
+`Private` upfront. For forked projects,
+after the repository has been forked, go to your forked project, from
+`Settings`, go to `General`, from there change `Visibility` level to 
+`Private`.
 
 Next, I provide instructions for the second way of creating and
-populating a new GitLab repository.
+populating a new GitLab repository (i.e., Download).
 
 ## Step 1: Create a GitLab Repo
 
@@ -38,12 +43,6 @@ First, you will need to login to <a
 href="https://git.gmu.edu/users/sign_in">GitLab</a> by clicking
 `Sign in with: GMU Login`. Username and Password never work
 for some reason.
-
-For a newly created project, you can directly set the visibility to
-`Private` upfront. For forked projects,
-after the repository has been forked, go to your forked project, from
-`Settings`, go to `General`, from there change `Visibility` level to 
-`Private`.
 
 ## Step 2: Clone Your GitLab Repo
 
