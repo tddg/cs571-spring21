@@ -15,10 +15,10 @@ Green Threads) and Go-based distributed systems projects (MapReduce
 and MDFS). 
 
 > **IMPORTANT:** There are two ways of creating a new GitLab repository.
-(1) Fork: For each project, make sure you fork the original project
-GitLab repositories and then immediately change the permission of the
-project to **Private**.
-(2) Download: Alternatively, you may create a **Private**
+**(1) Fork:** You may fork the original project GitLab repositories
+and then immediately change the permission of the project to
+**Private**.
+**(2) Download:** Alternatively, you may create a **Private**
 project with the same project name, download the original project in
 a tar.gz file to your working directory, copy and upload the
 downloaded source code to your **Private** repository, and use <a
