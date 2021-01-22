@@ -6,7 +6,7 @@ permalink: /proj0a.html
 
 ## Important Dates and Other Stuff
 
-**Due** Thursday, 02/06, midnight.
+**Due** Friday, 02/05, midnight.
 
 **This project is to be done by yourself.**
 
@@ -30,9 +30,10 @@ useful.
 
 The URL for the course git repository is
 [https://git.gmu.edu/cs571-proj/linux-utilities](https://git.gmu.edu/cs571-proj/linux-utilities).
-Don't clone the git repo directly; instead, as described in the [GitLab Setup instructions](./gitlab_setup.html)
-first fork that repo into your own private repo on our Mason GitLab server,
-then clone from that. You'll commit you changes locally and push them
+Refer to [GitLab Setup](./gitlab_setup.html) for instructions of creating
+a new **Private** project repository 
+on our Mason GitLab server.
+You'll commit you changes locally and push them
 to your private GitLab repo for grading. 
 
 ## Linux Utilities
@@ -326,8 +327,8 @@ You will submit your assignment using GitLab. The submission will
 consist of whatever is contianed in your **private**
 `linux-utilities` repository. 
 
-1. You will need to share your **private** repository with our GTA Abhishek (his GitLab ID
-is the same as his mason email ID: `aroy6`).
+1. You will need to share your **private** repository with our GTA Michael (his GitLab ID
+is the same as his mason email ID: `mcrawsha`).
 
 2. Commit all your changes by typing:
 

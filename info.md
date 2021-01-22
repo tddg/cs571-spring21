@@ -49,7 +49,12 @@ Here is a tentative list of projects:
 * Project 2: Implement and analyze a suite of commonly used caching policies;
 * Project 3: Implement a user-space green thread library;
 * Project 4: Implement a MapReduce framework (and applications) using Go;
-* Project 5 (optional): Implement a Mason Distributed File System (MDFS) using Go.
+* Project 5 (*extra credits*): Implement a Mason Distributed File System (MDFS) using Go.
+
+## GitLab rules
+
+Refer to [GitLab Setup]({{ site.baseurl }}/gitlab_setup.html) for
+detailed instructions on setting up GitLab repos.
 
 ## Grading policy
 
