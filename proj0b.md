@@ -8,6 +8,7 @@ permalink: /proj0b.html
 
 **Due** Friday, 04/09, midnight<sup>[1](#myfootnote1)</sup>.
 
+**This project is to be done by yourself.**
 
 ## Introduction
 
