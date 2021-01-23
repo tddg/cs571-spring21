@@ -12,7 +12,7 @@ permalink: /proj0a.html
 
 Tests: Read more about the tests, including how to run them, by
 reading the file
-[linux-utilities/tester/README](https://git.gmu.edu/cs571-proj/linux-utilities/blob/master/tester/README.md)
+[linux-utilities/tester/README](https://git.gmu.edu/cs571-proj-spring21/linux-utilities/blob/master/tester/README.md)
 (i.e., type cat linux-utilities/tester/README.md to see what
 to do, or better yet, use mcat ...?). Good luck!
 
@@ -29,7 +29,7 @@ git](https://eagain.net/articles/git-for-computer-scientists/)
 useful.
 
 The URL for the course git repository is
-[https://git.gmu.edu/cs571-proj/linux-utilities](https://git.gmu.edu/cs571-proj/linux-utilities).
+[https://git.gmu.edu/cs571-proj-spring21/linux-utilities](https://git.gmu.edu/cs571-proj-spring21/linux-utilities).
 Refer to [GitLab Setup](./gitlab_setup.html) for instructions of creating
 a new **Private** project repository 
 on our Mason GitLab server.

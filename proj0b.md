@@ -17,6 +17,24 @@ you to already have a basic knowledge of the language. If you're
 starting from nothing, we highly recommend going through the [Golang
 tour](https://tour.golang.org/list) before you begin this project.
 
+## GitLab Repo
+
+We use the Go's package `testing` for automated testing. You'll fetch (fork or download) the initial software with
+[git](https://git-scm.com/) (a version control system).  To learn
+more about git, look at the [git user's
+manual](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html),
+or, if you are already familiar with other version control systems,
+you may find this [CS-oriented overview of
+git](https://eagain.net/articles/git-for-computer-scientists/)
+useful.
+
+The URL for the course git repository is
+[https://git.gmu.edu/cs571-proj-spring21/intro-go](https://git.gmu.edu/cs571-proj-spring21/intro-go).
+Refer to [GitLab Setup](./gitlab_setup.html) for instructions of
+creating a new **Private** project repository on our Mason GitLab
+server.  You'll commit you changes locally and push them to your
+private GitLab repo for grading. 
+
 ## Software
 
 You will find the code in the same directory as this readme. The two
@@ -57,6 +75,21 @@ If all tests pass, you should see the following output:
 PASS
 ok	/path/to/intro-go  0.009s
 ```
+
+To run a single test (e.g., `Test1`), run the following:
+
+```bash
+% go test -run Test1
+--- FAIL: Test1 (0.00s)
+    q2_test.go:11: Sum of q2_test1.txt failed: got 0, expected 499500
+
+FAIL
+exit status 1
+FAIL	intro-go	0.001s
+```
+
+Apparently, the above test fails due to a certain reason. It is your
+job to add the correct logic to make it work.
 
 Please post questions on Piazza.
 
