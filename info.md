@@ -18,7 +18,7 @@ The course syllabus is posted [here](https://cs.gmu.edu/media/syllabi/Spring2021
 * Michael Crawshaw
 * Email: [mcrawsha@masonlive.gmu.edu](mailto:mcrawsha@masonlive.gmu.edu)
 * Where: Virtual
-* When: TBD
+* When: Monday 1:30 pm - 2:30 pm, and Thursday 2:30 pm - 3:30 pm
 
 ## Prerequisite
 
