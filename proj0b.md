@@ -20,7 +20,7 @@ tour](https://tour.golang.org/list) before you begin this project.
 
 ## GitLab Repo
 
-We use the Go's package `testing` for automated testing. You'll fetch (fork or download) the initial software with
+We use Go's package `testing` for automated testing. You'll fetch (fork or download) the initial software with
 [git](https://git-scm.com/) (a version control system).  To learn
 more about git, look at the [git user's
 manual](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html),
