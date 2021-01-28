@@ -10,6 +10,8 @@ permalink: /proj0a.html
 
 **This project is to be done by yourself.**
 
+**This project will be graded on Zeus. So make sure your implementation compiles and works on Zeus.**
+
 Tests: Read more about the tests, including how to run them, by
 reading the file
 [linux-utilities/tester/README](https://git.gmu.edu/cs571-proj-spring21/linux-utilities/blob/master/tester/README.md)
