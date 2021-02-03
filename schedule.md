@@ -118,7 +118,7 @@ The course schedule is tentative and subject to change\*.
   <td id="2021-2-3" class="date"><b>Week 2</b></td>
   <td class="virtualization">Feb 3<br/>
 	<b>Lec 2a:</b> LDE [<a href="./public/lecs/lec2a-lde.pdf">slides</a>]<br/>
-	<b>Lec 2:</b> CPU scheduling I [<a href="./public/lecs/lec2b-sched-fifo-sjf-rr.pdf">slides</a>]<br/>
+	<b>Lec 2b:</b> CPU scheduling I [<a href="./public/lecs/lec2b-sched-fifo-sjf-rr.pdf">slides</a>]<br/>
 	<b>Reading:</b> <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf">LDE</a> and <a href="http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/cpu-sched.pdf">Scheduling (intro)</a>
 	</td>
   <td class="deadline">Feb 5<br/>
