@@ -27,11 +27,11 @@ There are three specific objectives to this project assignment:
 Again, for this project, we supply you with a testing framework that
 is written using bash script. The URL for the Git repository is located
 at: [https://git.gmu.edu/cs571-proj-spring21/linux-shell](https://git.gmu.edu/cs571-proj-spring21/linux-shell).
-As always, please **DO NOT** clone the Git repo directly. Instead, as
-described in the [GitLab Setup instructions](./gitlab_setup.html)
-first fork that repo into your own **private** repo on our Mason GitLab
-server, then clone from that. You'll commit you changes locally and
-push them to your private GitLab repo for grading. 
+As always, please **DO NOT** clone the Git repo directly. Instead,
+follow the [GitLab Setup instructions](./gitlab_setup.html) to create
+a **private** repo on the Mason GitLab server. You'll commit you
+changes locally and push them to your private GitLab repo for
+grading. 
 
 
 ## Overview
