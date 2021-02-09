@@ -129,7 +129,9 @@ The course schedule is tentative and subject to change\*.
 <tr> <!-- week of Feb 10 -->
   <td id="2021-2-10" class="date"><b>Week 3</b></td>
   <td class="virtualization">Feb 10<br/>
-	<b>Lec 3:</b> CPU scheduling II	</td>
+	<b>Lec 3:</b> CPU scheduling II [<a href="./public/lecs/lec3-sched-priority-mlfq-cfs.pdf">slides</a>]<br/>
+	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/cpu-sched-mlfq.pdf">MLFQ</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf">Multi-core Sched (Linux)</a>, <a href="https://man7.org/linux/man-pages/man7/sched.7.html">man 7 sched</a>, and <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-lottery.pdf">Lottery</a>
+	</td>
   <td class="nodue">Feb 12</td>
 </tr>
 <tr> <!-- week of Feb 17 -->
