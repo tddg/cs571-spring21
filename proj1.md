@@ -305,7 +305,7 @@ consist of whatever is contianed in your **private**
 
 1. You will need to share your **private** repository with our GTA
 Michael (his GitLab ID is the same as his Mason Email ID: `mcrawsha`).
-Make sure to grant Abhishek a role of **"Developer"** or **"Maintainer"**.
+Make sure to grant Michael a role of **"Developer"** or **"Maintainer"**.
 Note that "Guest" role permission does not necessarily grant access.
 
 2. Commit all your changes by typing:
