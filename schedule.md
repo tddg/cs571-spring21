@@ -140,7 +140,7 @@ The course schedule is tentative and subject to change\*.
   <td class="virtualization">Feb 17<br/>
 	<b>Lec 4:</b> Memeory management I [<a href="./public/lecs/lec4-vm-paging.pdf">slides</a>]<br/>
 	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-intro.pdf">Address spaces</a>, <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-mechanism.pdf">Address translation</a>, <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-paging.pdf">Paging</a>, <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-tlbs.pdf">TLB</a>, <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-smalltables.pdf">Adv. PTs</a>. 
-	/td>
+	</td>
   <td class="nodue">Feb 19</td>
 </tr>
 <tr> <!-- week of Feb 24 -->
