@@ -118,7 +118,7 @@ The course schedule is tentative and subject to change\*.
   <td id="2021-2-3" class="date"><b>Week 2</b></td>
   <td class="virtualization">Feb 3<br/>
 	<b>Lec 2a:</b> LDE [<a href="./public/lecs/lec2a-lde.pdf">slides</a>]<br/>
-	<b>Lec 2b:</b> CPU scheduling I [<a href="./public/lecs/lec2b-sched-fifo-sjf-rr.pdf">slides</a>]<br/>
+	<b>Lec 2b:</b> CPU virtualization I [<a href="./public/lecs/lec2b-sched-fifo-sjf-rr.pdf">slides</a>]<br/>
 	Lec 2's note [<a href="./public/lecs/Lec2.pdf">note</a>]<br/>
 	<b>Reading:</b> <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf">LDE</a> and <a href="http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/cpu-sched.pdf">Scheduling (intro)</a>
 	</td>
@@ -129,7 +129,7 @@ The course schedule is tentative and subject to change\*.
 <tr> <!-- week of Feb 10 -->
   <td id="2021-2-10" class="date"><b>Week 3</b></td>
   <td class="virtualization">Feb 10<br/>
-	<b>Lec 3:</b> CPU scheduling II [<a href="./public/lecs/lec3-sched-priority-mlfq-cfs.pdf">slides</a>]<br/>
+	<b>Lec 3:</b> CPU virtualization II [<a href="./public/lecs/lec3-sched-priority-mlfq-cfs.pdf">slides</a>]<br/>
 	Lec 3's note [<a href="./public/lecs/Lec3.pdf">note</a>]<br/>
 	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/cpu-sched-mlfq.pdf">MLFQ</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf">Multi-core Sched (Linux)</a>, <a href="https://man7.org/linux/man-pages/man7/sched.7.html">man 7 sched</a>, and <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-lottery.pdf">Lottery (optional)</a>
 	</td>
@@ -138,7 +138,7 @@ The course schedule is tentative and subject to change\*.
 <tr> <!-- week of Feb 17 -->
   <td id="2021-2-17" class="date"><b>Week 4</b></td>
   <td class="virtualization">Feb 17<br/>
-	<b>Lec 4:</b> Memeory management I [<a href="./public/lecs/lec4-vm-paging.pdf">slides</a>]<br/>
+	<b>Lec 4:</b> Memeory virtualization I [<a href="./public/lecs/lec4-vm-paging.pdf">slides</a>]<br/>
 	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-intro.pdf">Address spaces</a>, <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-mechanism.pdf">Address translation</a>, 
 	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-paging.pdf">Paging</a>, 
 	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-tlbs.pdf">TLB</a>, 
@@ -149,7 +149,7 @@ The course schedule is tentative and subject to change\*.
 <tr> <!-- week of Feb 24 -->
   <td id="2021-2-24" class="date"><b>Week 5</b></td>
   <td class="virtualization">Feb 24<br/>
-	<b>Lec 5:</b> Memory management II
+	<b>Lec 5:</b> Memory virtualization II
 	</td>
   <td class="deadline">Feb 26<br/>
 	<span class="hwdue"><a href="./proj1.html">Proj 1</a> due</span><br/>
