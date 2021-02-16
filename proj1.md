@@ -10,6 +10,8 @@ permalink: /proj1.html
 
 **This project is to be done by yourself.**
 
+**This project will be graded on Zeus. So make sure your implementation compiles and works on Zeus.**
+
 In this project, you'll build a simple Unix shell. The shell is the heart of
 the command-line interface, and thus is central to the Linux (or in
 general, Unix) / C programming environment. Mastering use of the
