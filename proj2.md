@@ -243,12 +243,15 @@ the original algorithm<sup>[1](#myfootnote1)</sup>.
 
 * `LFU` (**15% extra credit**): When the user specified `-p 3` when invoking the driver,
 the simulator should simulate the LFU policy. Since LFU tracks access
-frequency instead of recency, a simple priority queue (e.g., 
-[binary heap](https://en.wikipedia.org/wiki/Binary_heap),
-[RB-tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree))<sup>[2](#myfootnote2)</sup>
+frequency instead of recency, you will need to implement a priority
+queue<sup>[2](#myfootnote2)</sup> data structure to track frequency.
+Priority queues, e.g., 
+[binary heap](https://en.wikipedia.org/wiki/Binary_heap) and
+[RB-tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree),
 could be used to achieve a time complexity of `O(logN)` when
 inserting, deleting, and searching a page. However, you can always
-use a linked list with the worst `O(N)` time complexity. 
+use a linked list with a time complexity of `O(N)` -- it would be 
+significantly slower when you run large trace dataset.
 
 * `MIN` (**15% extra credit**): When the user specifies `-p 4` when invoking the driver,
 the simulator should simulate the *offline* MIN policy. MIN assumes that
