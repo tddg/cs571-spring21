@@ -246,7 +246,7 @@ the simulator should simulate the LFU policy. Since LFU tracks access
 frequency instead of recency, you will need to implement a priority
 queue<sup>[2](#myfootnote2)</sup> data structure to track frequency.
 Priority queues, e.g., 
-[binary heap](https://en.wikipedia.org/wiki/Binary_heap) and
+[binary heap](https://en.wikipedia.org/wiki/Binary_heap) or
 [RB-tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree),
 could be used to achieve a time complexity of `O(logN)` when
 inserting, deleting, and searching a page. However, you can always
