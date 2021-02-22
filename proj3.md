@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Project 3: Green Threads"
+title: "Project 3: TBD"
 permalink: /proj3.html
 ---
 

@@ -302,7 +302,7 @@ something like the following:
 ## What (and how) to hand in
 
 You will submit your project assignment using GitLab. The submission will
-consist of whatever is contianed in your **private**
+consist of whatever is contained in your **private**
 `linux-shell` repository. 
 
 1. You will need to share your **private** repository with our GTA
