@@ -288,9 +288,11 @@ timer (e.g., `gettimeofday()`).)
 
 When the driver invokes `<policy>_next_entry()` for the first time,
 the cache structures must be initialized with an empty state.  For
-example, to implement LRU, you can define your own `lru_cache`
-struct, which has fields associated with a mapping table, a linked
-list, and extra fields for recording runtime statistics.
+example, to implement LRU, you can define your own struct `lru_cache`,
+ which has fields associated with a mapping table, a linked
+list, and extra fields for recording runtime statistics; 
+Struct `lru_cache` will be initialized when `lru_next_entry()` gets
+called for the first time.
 
 Since you will be dealing with lots of pointer operations, make sure
 to `free()` malloc'ed memory objects to avoid memory leakage. Run
