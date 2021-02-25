@@ -152,6 +152,7 @@ The course schedule is tentative and subject to change\*.
   <td class="virtualization">Feb 24<br/>
 	<b>Lec 5:</b> Memory virtualization II [<a href="./public/lecs/lec5-vm-caching.pdf">slides</a>]<br/>
 	<b>Reading:</b> Beyond physical memory: <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-beyondphys.pdf">Mechanisms</a>, 
+	Lec 5's note [<a href="./public/lecs/Lec5.pdf">note</a>]<br/>
 	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf">(Caching) Policy</a>, 
 	and <a href="https://www.usenix.org/conference/fast-03/arc-self-tuning-low-overhead-replacement-cache">ARC paper (FAST'03)</a>
 	</td>
