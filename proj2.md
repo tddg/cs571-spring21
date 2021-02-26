@@ -5,8 +5,6 @@ permalink: /proj2.html
 ---
 
 
-## Work-in-progress: Some content is subject to change before it is officially released on Friday, Feb 26.
-
 ## Important Dates and Other Stuff
 
 **Due** Friday, 03/19, midnight (11:59 pm).
@@ -14,6 +12,12 @@ permalink: /proj2.html
 **This project is to be done by yourself.**
 
 **This project will be graded on Zeus. So make sure your implementation compiles and works on Zeus.**
+
+> **NOTE:** This is an **open-ended, research-oriented** project. 
+While you are supplied with [a simulator
+framework](https://git.gmu.edu/cs571-proj-spring21/caching-policies),
+you are welcome to implement your own and/or use other C-written,
+third-party libraries to facilitate your implementation. 
 
 In this project, you'll implement and experiment with a series of
 cache replacement policies (i.e., caching policies). Caching is one
@@ -32,8 +36,9 @@ There are three specific objectives to this project assignment:
 replacement policies.
 * To get a deeper understanding about how different caching algorithms
 may affect the performance of an application workload.
-* To conduct entry-level, research-oriented, experimental analysis and
-prepare a writeup that reports your approaches and your findings.
+* To conduct entry-level, research-oriented, experimental analysis
+and prepare a writeup that documents your approaches and reports your
+findings.
 
 
 ## GitLab Repo
@@ -203,9 +208,12 @@ In this project, you should implement the following three caching policies:
 
 * `LRU` (25% credit): When the user specifies `-p 0` when invoking the driver, 
 the simulator should simulate the LRU policy. A common way to
-approximate LRU is to use a mapping table (e.g., a hash table) for
-keeping track of the cached pages and a linked list for tracking
-recency.  When a new page item is inserted into the cache, this page
+approximate LRU is to use a mapping table (e.g., a hash
+table<sup>[1](#myfootnote1)</sup>) for
+keeping track of the cached pages and a doubly linked
+list<sup>[2](#myfootnote2)</sup> for tracking
+recency<sup>[3](#myfootnote3)</sup>.  
+When a new page item is inserted into the cache, this page
 will be added to the mapping table and will be added to the MRU
 position (either head or tail of the linked list depending on your
 implementation of the data structure) of the linked list. When an
@@ -232,10 +240,10 @@ handle the following cases:
 to the MRU position of T2.
 	2. **Case II-III:** When there is a miss and the missing page is in the ghost
 cache (B1 or B2), follow the replacement and adaptation routine defined in 
-the original algorithm<sup>[1](#myfootnote1)</sup>. 
+the original algorithm<sup>[4](#myfootnote4)</sup>. 
 	3. **Case IV:** When there is a miss and the missing page is not in the ghost cache: 
-		1. **Case A:** L1 has exactly `capacity` (i.e., `c`) number of pages<sup>[1](#myfootnote1)</sup>.
-		2. **Case B:** L1 has less than `capacity` (i.e., `c`) number of pages<sup>[1](#myfootnote1)</sup>.
+		1. **Case A:** L1 has exactly `capacity` (i.e., `c`) number of pages<sup>[4](#myfootnote4)</sup>.
+		2. **Case B:** L1 has less than `capacity` (i.e., `c`) number of pages<sup>[4](#myfootnote4)</sup>.
 
 * Project Report (20% credit): See [Prepare Project Report](#prepare-project-report).
 
@@ -244,7 +252,7 @@ the original algorithm<sup>[1](#myfootnote1)</sup>.
 * `LFU` (**15% extra credit**): When the user specified `-p 3` when invoking the driver,
 the simulator should simulate the LFU policy. Since LFU tracks access
 frequency instead of recency, you will need to implement a priority
-queue<sup>[2](#myfootnote2)</sup> data structure to track frequency.
+queue<sup>[5](#myfootnote5)</sup> data structure to track frequency.
 Priority queues, e.g., 
 [binary heap](https://en.wikipedia.org/wiki/Binary_heap) or
 [RB-tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree),
@@ -381,8 +389,16 @@ template](https://www.usenix.org/conferences/author-resources/paper-templates).
 
 You will submit your project assignment using GitLab. The submission
 will consist of whatever is contained in your **private**
-`caching-policies` repository, including the **source code** and **a pdf of
-your project report**. 
+`caching-policies` repository, including a **README** file, 
+the **source code**, and **a pdf of your project report**. 
+
+0. You will provide a **README** file in your GitHub repository to document
+i) the structure of your code, e.g., extra source files and libraries
+that you added in addition to the given ones, and ii) how to compile
+your code on Zeus. **Note you should not assume that any third-party
+libraries that you use in your development are provided on Zeus. You
+are responsible for supplying any third-party libraries as part of
+your submission.**
 
 1. You will need to share your **private** repository with our GTA
 Michael (his GitLab ID is the same as his Mason Email ID:
@@ -406,17 +422,23 @@ deadline.
 
 ## Footnotes
 
-<a name="myfootnote1">1</a>: [ARC: A self-tuning, low overhead
+<a name="myfootnote1">1</a>: Hash table: [Wikipedia entry](https://en.wikipedia.org/wiki/Hash_table).
+
+<a name="myfootnote2">2</a>: Doubly linked list: [Wikipedia entry](https://en.wikipedia.org/wiki/Doubly_linked_list).
+
+<a name="myfootnote3">3</a>: Example LRU implementation using a hash table and a doubly linked list: [link](https://www.geeksforgeeks.org/lru-cache-implementation/).
+
+<a name="myfootnote4">4</a>: [ARC: A self-tuning, low overhead
 replacement
 cache](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf).
 Nimrod Megiddo, Dharmendra S. Modha. USENIX FAST 2003.
 
 
-<a name="myfootnote2">2</a>: Unfortunately, there are not many
-great, C-written, open-source data structure library that you can choose.
-You may pretty much have to reinvent the wheel in C. However, since
-this project is **open-ended**, you are welcome to search on your own
-and find one (not too heavyweight) that suits your need. 
-
+<a name="myfootnote5">5</a>: Unfortunately, there are not many
+great, C-written, open-source data structure library that you can
+choose for implementing a priority queue.  You may pretty much have
+to reinvent the wheel in C. However, since this project is
+**open-ended**, you are welcome to search on your own and find one
+(not too heavyweight) that suits your need. 
 
 
