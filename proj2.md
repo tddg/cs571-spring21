@@ -417,7 +417,7 @@ And that's all. We will check the timestamp (your last commit
 timestamp) for late submission. So make sure to submit before the
 deadline.
 
-**Have fun [caching](./public/images/caching_is_hard_paper.pdf)!**
+**Have fun [caching]({{ site.baseurl }}/public/images/caching_is_hard_paper.pdf)!**
 
 
 
