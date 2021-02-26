@@ -15,9 +15,10 @@ permalink: /proj2.html
 
 > **NOTE:** This is an **open-ended, research-oriented** project. 
 While you are supplied with [a simulator
-framework](https://git.gmu.edu/cs571-proj-spring21/caching-policies),
-you are welcome to implement your own and/or use other C-written,
-third-party libraries to facilitate your implementation. 
+framework](https://git.gmu.edu/cs571-proj-spring21/caching-policies)
+to start off with, you are welcome to implement your own and/or use
+other C-written, third-party libraries to facilitate your
+implementation. 
 
 In this project, you'll implement and experiment with a series of
 cache replacement policies (i.e., caching policies). Caching is one
