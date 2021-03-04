@@ -163,7 +163,7 @@ The course schedule is tentative and subject to change\*.
 <tr> <!-- week of Mar 2 -->
   <td id="2021-3-3" class="date"><b>Week 6</b></td>
   <td class="lecture">Mar 3<br/>
-	<b>Lec 6:</b> Midterm review  [<a href="./public/lecs/midterm-review.pdf">slides</a>] </td>
+	<b>Lec 6:</b> Midterm review  [<a href="./public/lecs/midterm-review.pdf">slides</a>] [<a href="./public/lecs/midter-review+notes.pdf">slides+notes</a>] </td>
   <td class="nodue">Mar 5</td>
 </tr>
 <tr> <!-- week of Mar 9 -->
