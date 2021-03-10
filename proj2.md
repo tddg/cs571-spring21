@@ -140,7 +140,7 @@ following usage information:
 		2: ARC
 		3: LFU
 		4: MIN
-	-s <cache_size>: cache capacity in bytes
+	-s <cache_size>: cache capacity in num. pages
 	-h: show usage
 ``` 
 
