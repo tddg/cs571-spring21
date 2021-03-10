@@ -116,7 +116,7 @@ Use the following command to compile the basic simulator code:
 gcc -o driver driver.c cache.c -Wall -Werror
 ```
 
-**Note** that you can create a Makefile to automate the compilation if
+> **NOTE:**  that you can create a Makefile to automate the compilation if
 you like. If you plan to add additional C source files, you will have
 to modify the above compilation command accordingly.
 
