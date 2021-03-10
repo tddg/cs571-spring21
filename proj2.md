@@ -110,6 +110,17 @@ calls the caching functions declared in `cache.h` and defined in
 `cache.c`. You will the `static` functions related to specific
 caching policies in `cache.c`.
 
+Use the following command to compile the basic simulator code:
+
+```bash
+gcc -o driver driver.c cache.c -Wall -Werror
+```
+
+**Note** that you can create a Makefile to automate the compilation if
+you like. If you plan to add additional C source files, you will have
+to modify the above compilation command accordingly.
+
+
 ### Simulation Driver
 
 The simulation driver (`driver.c`) takes several command-line
