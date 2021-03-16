@@ -175,7 +175,12 @@ The course schedule is tentative and subject to change\*.
 <tr> <!-- week of Mar 16 -->
   <td id="2021-3-17" class="date"><b>Week 8</b></td>
   <td class="concurrency">Mar 17<br/>
-	<b>Lec 7:</b> Concurrency I </td>
+	<b>Lec 7:</b> Concurrency I [<a href="./public/lecs/lec7-concur-threads-locks-sem.pdf">slides</a>]<br/>
+	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf">Threads</a>, 
+	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf">Concurrency intro</a>,
+	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">Locks</a>,
+	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf">Semaphores</a>
+	</td>
   <td class="deadline">Mar 19<br/>
 	<span class="hwdue"><a href="./proj2.html">Proj 2</a> due</span><br/>
 	<span class="assignment"><a href="./proj3.html">Proj 3</a> out</span></td>
