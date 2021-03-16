@@ -178,7 +178,7 @@ The course schedule is tentative and subject to change\*.
 	<b>Lec 7:</b> Concurrency I [<a href="./public/lecs/lec7-concur-threads-locks-sem.pdf">slides</a>]<br/>
 	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf">Threads</a>, 
 	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf">Concurrency intro</a>,
-	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">Locks</a>,
+	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">Locks</a>, and
 	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf">Semaphores</a>
 	</td>
   <td class="deadline">Mar 19<br/>
