@@ -88,6 +88,11 @@ table.calendar thead tr {
 
 The course schedule is tentative and subject to change\*.
 
+Please enter the composition of your team (for Project 3-5) by
+filling this <a href="https://forms.gle/DwNN1pZPn5J6jFAS9">Google Form</a>. 
+Each team can have at most 2 people, and 2) if you choose to work as
+a team, only one team member needs to fill this form.
+
 <p>
 <table class="calendar" cellspacing="0" cellpadding="6" width="100%">
  <thead>
@@ -181,15 +186,17 @@ The course schedule is tentative and subject to change\*.
 	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">Locks</a>, and
 	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf">Semaphores</a>
 	</td>
-  <td class="deadline">Mar 19<br/>
-	<span class="hwdue"><a href="./proj2.html">Proj 2</a> due</span><br/>
-	<span class="assignment"><a href="./proj3.html">Proj 3</a> out</span></td>
+  <td class="nodue">Mar 19<br/>
+	<span class="hwdue"><s><a href="./proj2.html">Proj 2</a> due</s></span><br/>
+	<span class="assignment"><del><a href="./proj3.html">Proj 3</a> out</del></span></td>
 </tr>
 <tr> <!-- week of Mar 23 -->
   <td id="2021-3-24" class="date"><b>Week 9</b></td>
   <td class="concurrency">Mar 24<br/>
 	<b>Lec 8:</b> Concurrency II </td>
-  <td class="nodue">Mar 26</td>
+  <td class="deadline">Mar 26<br/>
+	<span class="hwdue"><a href="./proj2.html">Proj 2</a> due</span><br/>
+	<span class="assignment"><a href="./proj3.html">Proj 3</a> out</span></td>
 </tr>
 <tr> <!-- week of Mar 30 -->
   <td id="2021-3-31" class="date"><b>Week 10</b></td>
@@ -203,16 +210,16 @@ The course schedule is tentative and subject to change\*.
 	<b>Lec 10:</b> Distributed systems I: RPC, MapReduce 
 	</td>
   <td class="deadline">Apr 9<br/>
-	<span class="hwdue"><a href="./proj0b.html">Proj 0b</a> and 
-		<a href="./proj3.html">Proj 3</a> due</span><br/>
-	<span class="assignment"><a href="./proj4.html">Proj 4</a> out</span></td>
+	<span class="hwdue"><a href="./proj0b.html">Proj 0b</a> due </span></td>
 </tr>
 <tr> <!-- week of Apr 13 -->
   <td id="2021-4-14" class="date"><b>Week 12</b></td>
   <td class="persistence">Apr 14<br/>
 	<b>Lec 11:</b> File systems
 	</td>
-  <td class="nodue">Apr 16</td>
+  <td class="deadline">Apr 16<br/>
+	<span class="hwdue"><a href="./proj3.html">Proj 3</a> due</span><br/>
+	<span class="assignment"><a href="./proj4.html">Proj 4</a> out</span></td>
 </tr>
 <tr> <!-- week of Apr 20 -->
   <td id="2021-4-21" class="date"><b>Week 13</b></td>
@@ -225,14 +232,14 @@ The course schedule is tentative and subject to change\*.
   <td id="2021-4-28" class="date"><b>Week 14</b></td>
   <td class="lecture">Apr 28<br/>
 	<b>Final review</b>  </td>
-  <td class="deadline">Apr 30<br/>
-	<span class="hwdue"><a href="./proj4.html">Proj 4</a> due</span></td>
+  <td class="nodue">Apr 30</td>
 </tr>
 <tr> <!-- week of May 4 -->
   <td id="2021-5-5" class="date"><b>Week 15</b></td>
   <td class="exam">May 5<br/>
 	 <b>Final exam</b> 7:20 pm - 10:00 pm</td>
-  <td class="nodue">May 7</td>
+  <td class="deadline">May 7<br/>
+	<span class="hwdue"><a href="./proj4.html">Proj 4</a> due</span></td>
 </tr>
 
 </table>

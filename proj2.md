@@ -7,7 +7,9 @@ permalink: /proj2.html
 
 ## Important Dates and Other Stuff
 
-**Due** Friday, 03/19, midnight (11:59 pm).
+**Due** ~~Friday, 03/19, midnight (11:59 pm).~~
+
+**Due** Friday, 03/26, midnight (11:59 pm).
 
 **This project is to be done by yourself.**
 
