@@ -391,10 +391,10 @@ anything ranging from debugging, implementation, to insights that you
 drew while experimenting with your implemented caching policies. 
 
 You may use Microsoft Word for the report. Or, if you like, you could
-use [Latex](https://www.latex-project.org/), which is a high-quality typesetting system
+use [LaTex](https://www.latex-project.org/), which is a high-quality typesetting system
 for publication of scientific documents. 
 If you choose to use MS Word, make sure to convert it to **pdf** for submission.
-If you choose to use Latex, you can use the [USENIX latex
+If you choose to use LaTex, you can use the [USENIX latex
 template](https://www.usenix.org/conferences/author-resources/paper-templates).
 
 
