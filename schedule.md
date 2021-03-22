@@ -176,7 +176,7 @@ a team, only one team member needs to fill this form.
   <td class="exam">Mar 10<br/>
 	<b>Midterm exam</b></td>
   <td class="nodue">Mar 12<br/>
-	<a href="./public/lecs/midterm_stats.png">Midterm stats</a>
+	<a href="./midterm_stats.html">Midterm stats</a>
 	</td>
 </tr>
 <tr> <!-- week of Mar 16 -->
