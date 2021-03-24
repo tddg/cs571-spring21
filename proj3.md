@@ -160,8 +160,10 @@ avoid this reserved range; the max is 65535.
 > **Be wary:**  if running on a shared machine (e.g., Zeus), 
 you could conflict with others and thus have your server fail to bind
 to the desired port. If this happens, try a different number! The VSE
-admin has reserved a block of ports (and a few spare ones in case
-there is a conflict) for our CS 571. 
+admin has kindly reserved a block of ports (and a few spare ones in
+case there is a conflict -- for security reason, available ports are not
+published here) for our CS 571. The instructor will assign ports for
+you to use rather than blindly contending for the same ports.
 
 When you then connect your web browser to this server, make sure that
 you specify this same port. For example, assume that you are running
