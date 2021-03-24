@@ -170,11 +170,12 @@ you specify this same port. In this project, if you choose to work on
 Zeus, make sure to ssh into `zeus-0` using:
 
 ```sh
-  % ssh <use-your-netid-here>@zeus-0.vse.gmu.edu
+% ssh <use-your-netid-here>@zeus-0.vse.gmu.edu
 ```
 
 If you ssh using the hostname `zeus.vse.gmu.edu`, likely you would be
-in `zeus-1` rather than `zeus-0`. 
+in `zeus-1` rather than `zeus-0`. `zeus-1`, unfortunately, bans the
+ports that you can use for this project. 
 
 Assume that you are running on `zeus-0.vse.gmu.edu` and use port
 number 8003; copy your favorite HTML file to the directory that you
