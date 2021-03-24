@@ -168,9 +168,11 @@ you to use to avoid contention on the same ports.
 When you then connect your web browser to this server, make sure that
 you specify this same port. In this project, if you choose to work on
 Zeus, make sure to ssh into `zeus-0` using:
-``sh
+
+```sh
   % ssh <use-your-netid-here>@zeus-0.vse.gmu.edu
-``
+```
+
 If you ssh using the hostname `zeus.vse.gmu.edu`, likely you would be
 in `zeus-1` rather than `zeus-0`. 
 
