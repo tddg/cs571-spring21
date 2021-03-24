@@ -47,7 +47,7 @@ Here is a tentative list of projects:
 * Project 0b: (Intro to Go): Familiarize yourself with the Go programming language;
 * Project 1: Implement a Linux shell using C;
 * Project 2: Implement and analyze a suite of commonly used caching policies;
-* Project 3: Implement a user-space green thread library;
+* Project 3: Implement a multi-threaded HTTP server;
 * Project 4: Implement a MapReduce framework (and applications) using Go;
 * Project 5 (*extra credits*): Implement a Mason Distributed File System (MDFS) using Go.
 
