@@ -163,7 +163,7 @@ to the desired port. If this happens, try a different number! The VSE
 admin has kindly reserved a block of ports (and a few spare ones in
 case there is a conflict -- for security reason, available ports are not
 published here) for our CS 571. The instructor will assign ports for
-you to use rather than blindly contending for the same ports.
+you to use to avoid contention on the same ports.
 
 When you then connect your web browser to this server, make sure that
 you specify this same port. In this project, if you choose to work on
