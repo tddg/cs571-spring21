@@ -166,11 +166,18 @@ published here) for our CS 571. The instructor will assign ports for
 you to use rather than blindly contending for the same ports.
 
 When you then connect your web browser to this server, make sure that
-you specify this same port. For example, assume that you are running
-on `zeus-0.vse.gmu.edu` and use port number 8003; copy your favorite
-HTML file to the directory that you start the web server from. Then,
-to view this file from a web browser (running on the same or a
-different machine), use the url
+you specify this same port. In this project, if you choose to work on
+Zeus, make sure to ssh into `zeus-0` using:
+``sh
+  % ssh <use-your-netid-here>@zeus-0.vse.gmu.edu
+``
+If you ssh using the hostname `zeus.vse.gmu.edu`, likely you would be
+in `zeus-1` rather than `zeus-0`. 
+
+Assume that you are running on `zeus-0.vse.gmu.edu` and use port
+number 8003; copy your favorite HTML file to the directory that you
+start the web server from. Then, to view this file from a web browser
+(running on the same or a different machine), use the url
 `zeus-0.vse.gmu.edu:8003/favorite.html`. If you run the client and
 web server on the same machine, you can just use the hostname
 `localhost` as a convenience, e.g., `localhost:8003/favorite.html`.
