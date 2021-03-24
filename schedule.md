@@ -207,7 +207,10 @@ a team, only one team member needs to fill this form.
   <td id="2021-3-31" class="date"><b>Week 10</b></td>
   <td class="persistence">Mar 31<br/>
 	<b>Lec 9:</b> I/O, disks  </td>
-  <td class="nodue">Apr 2</td>
+  <td class="lecture">Apr 2<br/>
+	<b>Go basics:</b> Go tutorial [<a href="https://drive.google.com/file/d/1RgAvty5D5BGJLiilIqVppIY2FBpZ2q6N/view?usp=sharing">video</a>] <br/>
+	[<a href="./public/lecs/go_basics.pdf">slides</a>] [<a href="./public/lecs/go_handout.docx">handout1</a>] [<a href="./public/lecs/go_handout2.docx">handout2</a>]
+	</td>
 </tr>
 <tr> <!-- week of Apr 6 -->
   <td id="2021-4-7" class="date"><b>Week 11</b></td>
