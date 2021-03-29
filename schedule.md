@@ -207,7 +207,11 @@ a team, only one team member needs to fill this form.
 <tr> <!-- week of Mar 30 -->
   <td id="2021-3-31" class="date"><b>Week 10</b></td>
   <td class="persistence">Mar 31<br/>
-	<b>Lec 9:</b> I/O, disks  </td>
+	<b>Lec 9:</b> Persistence I [<a href="./public/lecs/lec9-persis-hdd-ssd.pdf">slides</a>] <br/>
+	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-disks.pdf">HDDs</a>, 
+	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-disks.pdf">Disk sched</a>, and
+	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-ssd.pdf">SSDs</a> 
+	</td>
   <td class="lecture">Apr 2<br/>
 	<b>Go basics:</b> Go tutorial [<a href="https://drive.google.com/file/d/1RgAvty5D5BGJLiilIqVppIY2FBpZ2q6N/view?usp=sharing">video</a>] <br/>
 	[<a href="./public/lecs/go_basics.pdf">slides</a>] [<a href="./public/lecs/go_handout.docx">handout1</a>] [<a href="./public/lecs/go_handout2.docx">handout2</a>]
@@ -215,16 +219,16 @@ a team, only one team member needs to fill this form.
 </tr>
 <tr> <!-- week of Apr 6 -->
   <td id="2021-4-7" class="date"><b>Week 11</b></td>
-  <td class="advanced">Apr 7<br/>
-	<b>Lec 10:</b> Distributed systems I: RPC, MapReduce 
+  <td class="persistence">Apr 7<br/>
+	<b>Lec 10:</b> Persistence II
 	</td>
   <td class="deadline">Apr 9<br/>
 	<span class="hwdue"><a href="./proj0b.html">Proj 0b</a> due </span></td>
 </tr>
 <tr> <!-- week of Apr 13 -->
   <td id="2021-4-14" class="date"><b>Week 12</b></td>
-  <td class="persistence">Apr 14<br/>
-	<b>Lec 11:</b> File systems
+  <td class="advanced">Apr 14<br/>
+	<b>Lec 11:</b> Distributed systems I: RPC, MapReduce 
 	</td>
   <td class="deadline">Apr 16<br/>
 	<span class="hwdue"><a href="./proj3.html">Proj 3</a> due</span><br/>
