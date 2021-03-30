@@ -432,7 +432,7 @@ creating and synchronizing threads: `pthread_create()`,
 `pthread_mutex_init()`, `pthread_mutex_lock()`,
 `pthread_mutex_unlock()`, `pthread_cond_init()`,
 `pthread_cond_wait()`, `pthread_cond_signal()`. To find information
-on these library routines, read the man pages (RTFM). 
+on these library routines, read the man pages. 
 
 
 ## Testing
