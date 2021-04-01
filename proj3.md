@@ -474,9 +474,9 @@ non-deterministic orders.
 
 Aa another example, if you choose to implement SFF using a
 priority-queue-based buffer, you can insert prints (in the worker
-thread in `wserver.c`) to print the infor of the job that is grabbed
-from the buffer, in order to test if your SFF implementation works
-correctly; you can also throws in debugging logs to print an ordered
+thread in `wserver.c`) to print the info of the job that is grabbed
+from the buffer in order to test if your SFF implementation works
+correctly; you can also throw in debugging logs to print an ordered
 list of jobs that are already in the buffer whenever the master
 thread produces a new job into the buffer. Printing out debugging
 info is especially helpful for us to grade your implementation.
