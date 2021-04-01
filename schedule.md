@@ -208,6 +208,7 @@ a team, only one team member needs to fill this form.
   <td id="2021-3-31" class="date"><b>Week 10</b></td>
   <td class="persistence">Mar 31<br/>
 	<b>Lec 9:</b> Persistence I [<a href="./public/lecs/lec9-persis-hdd-ssd.pptx">slides</a>] <br/>
+	Lec 9's note [<a href="./public/lecs/Lec9.png">note</a>]<br/>
 	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-disks.pdf">HDDs</a>, 
 	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-disks.pdf">Disk sched</a>, and
 	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-ssd.pdf">SSDs</a> 
