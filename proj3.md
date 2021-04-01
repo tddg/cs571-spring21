@@ -7,7 +7,7 @@ permalink: /proj3.html
 
 ## Important Dates and Other Stuff
 
-**Due** Thursday, 04/16, midnight (11:59 pm).
+**Due** Friday, 04/16, midnight (11:59 pm).
 
 
 ## Overview
