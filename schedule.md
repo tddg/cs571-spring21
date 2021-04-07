@@ -221,7 +221,10 @@ a team, only one team member needs to fill this form.
 <tr> <!-- week of Apr 6 -->
   <td id="2021-4-7" class="date"><b>Week 11</b></td>
   <td class="persistence">Apr 7<br/>
-	<b>Lec 10:</b> Persistence II
+	<b>Lec 10:</b> Persistence II [<a href="./public/lecs/lec10-persis-fs-raid.pdf">slides</a>] <br/>
+	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-intro.pdf">File system intro</a>, 
+	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-implementation.pdf">file system implementation</a>, and
+	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-raid.pdf">RAID</a>
 	</td>
   <td class="deadline">Apr 9<br/>
 	<span class="hwdue"><a href="./proj0b.html">Proj 0b</a> due </span></td>
