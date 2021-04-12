@@ -232,7 +232,8 @@ a team, only one team member needs to fill this form.
 <tr> <!-- week of Apr 13 -->
   <td id="2021-4-14" class="date"><b>Week 12</b></td>
   <td class="advanced">Apr 14<br/>
-	<b>Lec 11:</b> Distributed systems I: RPC, MapReduce 
+	<b>Lec 11:</b> Distributed systems I: RPC, MapReduce <br/>
+	<b>Reading:</b> <a href="./public/lecs/mapreduce_osdi04.pdf">MapReduce paper</a>
 	</td>
   <td class="deadline">Apr 16<br/>
 	<span class="hwdue"><a href="./proj3.html">Proj 3</a> due</span><br/>
@@ -241,7 +242,8 @@ a team, only one team member needs to fill this form.
 <tr> <!-- week of Apr 20 -->
   <td id="2021-4-21" class="date"><b>Week 13</b></td>
   <td class="advanced">Apr 21<br/>
-	<b>Lec 12:</b> Distributed systems II: GFS, NFS</td>
+	<b>Lec 12:</b> Distributed systems II: GFS, NFS
+	</td>
   <td class="important">Apr 23<br/>
 	<span class="assignment"><a href="./proj5.html">Proj 5</a> out</span></td>
 </tr>
