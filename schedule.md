@@ -232,7 +232,7 @@ a team, only one team member needs to fill this form.
 <tr> <!-- week of Apr 13 -->
   <td id="2021-4-14" class="date"><b>Week 12</b></td>
   <td class="advanced">Apr 14<br/>
-	<b>Lec 11:</b> Distributed systems I: RPC, MapReduce <br/>
+	<b>Lec 11:</b> Distributed systems I: RPC, MapReduce [<a href="./public/lecs/lec11-ds-rpc-mr.pdf">slides</a>] <br/>
 	<b>Reading:</b> <a href="./public/lecs/mapreduce_osdi04.pdf">MapReduce paper</a>
 	</td>
   <td class="deadline">Apr 16<br/>
