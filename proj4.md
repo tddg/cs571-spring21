@@ -130,7 +130,7 @@ the overall architecture of the system.
 ## Part I: MapReduce input and output
 
 The MapReduce implementation you are given is missing some pieces.
-Before you can write your first Map/Reduce function pair, you will
+Before you can write your first MapReduce function pair, you will
 need to fix the sequential implementation. In particular, the code we
 give you is missing two crucial pieces: the function that divides up
 the output of a map task, and the function that gathers all the
