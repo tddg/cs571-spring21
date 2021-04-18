@@ -79,7 +79,7 @@ call to `doMap()` [`common_map.go`] at least once for each task. It does
 so either directly (when using `Sequential()`) or by issuing the `DoTask`
 RPC on a worker [`worker.go`]. Each call to `doMap()` reads the
 appropriate file, calls the map function on that file's contents, and
-writes the resulting key/value pairs to nReduce intermediate files.
+writes the resulting key/value pairs to `nReduce` intermediate files.
 `doMap()` hashes each key to pick the intermediate file and thus the
 reduce task that will process the key. There will be `nMap` X `nReduce`
 files after all map tasks are done. Each file name contains a prefix,
@@ -110,7 +110,7 @@ reduce function for each key that appears in those files. The reduce
 tasks produce `nReduce` result files. 
 
 5. The master calls `mr.merge()` [`master_splitmerge.go`], which merges
-all the nReduce files produced by the previous step into a single
+all the `nReduce` files produced by the previous step into a single
 output. 
 
 6. The master sends a Shutdown RPC to each of its workers, and then
