@@ -377,7 +377,6 @@ the end of a task, so there aren't concurrent executions of a task).
 > assume it won't fail. Making the master fault-tolerant is more
 > difficult because it keeps persistent state that would have to be
 > recovered in order to resume operations after a master failure.
-> Much of the later labs are devoted to this challenge. 
 
 Your implementation must pass the two remaining test cases in
 `test_test.go`. The first case tests the failure of one worker, while
