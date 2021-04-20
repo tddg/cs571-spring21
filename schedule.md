@@ -242,7 +242,7 @@ a team, only one team member needs to fill this form.
 <tr> <!-- week of Apr 20 -->
   <td id="2021-4-21" class="date"><b>Week 13</b></td>
   <td class="advanced">Apr 21<br/>
-	<b>Lec 12:</b> Distributed systems II: GFS, NFS <br/>
+	<b>Lec 12:</b> Distributed systems II: GFS, NFS [<a href="./public/lecs/lec12-ds-gfs-nfs.pdf">slides</a>] <br/>
 	<b>Reading:</b> <a href="./public/lecs/gfs_sosp03.pdf">GFS paper</a>
 	</td>
   <td class="important">Apr 23<br/>
