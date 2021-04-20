@@ -100,7 +100,7 @@ intermediate files:
 	as well as the input files. Real deployments use distributed storage
 	systems such as GFS (for input) and transfer files (for map-to-reduce
 	intermediate results) between workers to allow this access even
-	though workers run on different machines. In this lab you'll run all
+	though workers run on different machines. In this project you'll run all
 	the workers on the same machine, and use the local file system. 
 
 4. The master next makes a call to `doReduce()` [`common_reduce.go`] at
@@ -269,7 +269,7 @@ and it will report if your solution is correct or not.
 Your current implementation runs the map and reduce tasks one at a
 time. One of MapReduce's biggest selling points is that it can
 automatically parallelize ordinary sequential code without any extra
-work by the developer. In this part of the lab, you will complete a
+work by the developer. In this part of the project, you will complete a
 version of MapReduce that splits the work over a set of worker
 threads that run in parallel on multiple cores. While not distributed
 across multiple machines as in real MapReduce deployments, your
@@ -369,7 +369,7 @@ won't be inconsistencies if subsequent processing sometimes reads one
 output and sometimes the other. In addition, the MapReduce framework
 ensures that map and reduce function output appears atomically: the
 output file will either not exist, or will contain the entire output
-of a single execution of the map or reduce function (the lab code
+of a single execution of the map or reduce function (the project code
 doesn't actually implement this, but instead only fails workers at
 the end of a task, so there aren't concurrent executions of a task). 
 
