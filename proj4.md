@@ -12,7 +12,7 @@ permalink: /proj4.html
 
 ## Introduction
 
-In this lab you'll build a MapReduce library as a way to learn the Go
+In this project you'll build a MapReduce library as a way to learn the Go
 programming language and as a way to learn about fault tolerance in
 distributed systems. In the first part you will write a simple
 MapReduce program. In the second part you will write a Master that
