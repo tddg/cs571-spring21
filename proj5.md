@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Project 5: TLB measurement (optional)"
+title: "Project 5: TLB measurement (extra credit)"
 permalink: /proj5.html
 ---
 
