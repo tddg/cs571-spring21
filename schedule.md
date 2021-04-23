@@ -260,7 +260,9 @@ a team, only one team member needs to fill this form.
   <td class="exam">May 5<br/>
 	 <b>Final exam</b> 7:20 pm - 10:00 pm</td>
   <td class="deadline">May 7<br/>
-	<span class="hwdue"><a href="./proj4.html">Proj 4</a> due</span></td>
+	<span class="hwdue"><a href="./proj4.html">Proj 4</a> due</span><br/>
+	<span class="hwdue"><a href="./proj5.html">Proj 5</a> due</span>
+	</td>
 </tr>
 
 </table>
