@@ -49,7 +49,7 @@ Here is a tentative list of projects:
 * Project 2: Implement and analyze a suite of commonly used caching policies;
 * Project 3: Implement a multi-threaded HTTP server;
 * Project 4: Implement a MapReduce framework (and applications) using Go;
-* Project 5 (*extra credits*): Implement a Mason Distributed File System (MDFS) using Go.
+* Project 5 (*extra credits*): ~~Implement a Mason Distributed File System (MDFS) using Go.~~ --> TLB measurement.
 
 ## GitLab rules
 
