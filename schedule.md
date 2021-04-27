@@ -252,13 +252,16 @@ a team, only one team member needs to fill this form.
 <tr> <!-- week of Apr 27 -->
   <td id="2021-4-28" class="date"><b>Week 14</b></td>
   <td class="lecture">Apr 28<br/>
-	<b>Final review</b>  </td>
+	<b>Final review</b> 
+	[<a href="./public/lecs/final-review.pdf">slides</a>]
+	</td>
   <td class="nodue">Apr 30</td>
 </tr>
 <tr> <!-- week of May 4 -->
   <td id="2021-5-5" class="date"><b>Week 15</b></td>
   <td class="exam">May 5<br/>
-	 <b>Final exam</b> 7:20 pm - 10:00 pm</td>
+	 <b>Final exam</b> 7:20 pm - 10:00 pm 
+	 </td>
   <td class="deadline">May 7<br/>
 	<span class="hwdue"><a href="./proj4.html">Proj 4</a> due</span><br/>
 	<span class="hwdue"><a href="./proj5.html">Proj 5</a> due</span>
