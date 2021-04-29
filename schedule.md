@@ -253,7 +253,7 @@ a team, only one team member needs to fill this form.
   <td id="2021-4-28" class="date"><b>Week 14</b></td>
   <td class="lecture">Apr 28<br/>
 	<b>Final review</b> 
-	[<a href="./public/lecs/final-review.pdf">slides</a>]
+	[<a href="./public/lecs/final-review.pdf">slides</a>] [<a href="./public/lecs/final-review+note.pdf">slides+notes</a>]
 	</td>
   <td class="nodue">Apr 30</td>
 </tr>
